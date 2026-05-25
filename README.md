@@ -1,6 +1,7 @@
 # Supply-Chain-Operations-Analytics-using-Python-SQL-Power-BI
 
 **Project Overview**
+
 This project focuses on analyzing supply chain and inventory operations to identify delivery delays, inventory shortages, supplier inefficiencies, and warehouse performance issues. The project uses Python, SQL, and Power BI to generate actionable business insights and interactive dashboards for operational decision-making.
 
 **Problem Statement**
@@ -11,29 +12,29 @@ This project aims to analyze supply chain and inventory data using Python, SQL, 
 
 **Objectives**
 
-Analyze delivery performance and shipment delays
-Monitor inventory availability and stock levels
-Evaluate supplier efficiency and warehouse performance
-Create KPI-driven dashboards for operational insights
-Improve supply chain decision-making using data analytics
++ Analyze delivery performance and shipment delays
++ Monitor inventory availability and stock levels
++ Evaluate supplier efficiency and warehouse performance
++ Create KPI-driven dashboards for operational insights
++ Improve supply chain decision-making using data analytics
 
 **Tools & Technologies Used**
-
+```
 Tool	                    Purpose
 Python	                  Data Cleaning & EDA
 SQL	                      Data Querying & KPI Analysis
 Power BI	                Dashboard & Visualization
 Excel	                    Initial Data Processing
-
+```
 
 **Python Libraries Used**
 
-```
+`
 pandas
 numpy
 matplotlib
 seaborn
-```
+`
 
 **Key Performance Indicators (KPIs)**
 
@@ -49,22 +50,81 @@ Warehouse Efficiency
 
 **Dashboard Features**
 
-<u> Executive Overview </u>
-Total Orders
-Delay Percentage
-Average Shipping Cost
-Monthly Order Trends
+<ins> Executive Overview </ins>
 
-<u>Inventory Analysis</u>
+* Total Orders
+* Delay Percentage
+* Average Shipping Cost
+* Monthly Order Trends
 
-Stock Availability
-Low Stock Products
-Inventory Turnover
-Product-wise Inventory Distribution
+<ins>Inventory Analysis</ins>
 
-<u> Supplier & Delivery Analysis </u>
+* Stock Availability
+* Low Stock Products
+* Inventory Turnover
+* Product-wise Inventory Distribution
 
-Supplier Performance
-Delayed Orders Analysis
-Delivery Time Comparison
-Region-wise Orders
+<ins> Supplier & Delivery Analysis </ins>
+
+* Supplier Performance
+* Delayed Orders Analysis
+* Delivery Time Comparison
+* Region-wise Orders
+
+**SQL Analysis Performed**
+
++ Delivery delay analysis
++ Inventory turnover analysis
++ Warehouse performance analysis
++ Supplier performance evaluation
++ Shipping cost analysis
++ Monthly trend analysis
+
+**Project Workflow**
+```
+Data Collection
+      ↓
+Data Cleaning using Python
+      ↓
+SQL Query Analysis
+      ↓
+Power BI Dashboard Development
+      ↓
+Business Insights & Recommendations
+```
+
+**Key Insights**
+
++ Certain warehouses showed higher delivery delays
++ Some products frequently experienced low stock levels
++ Supplier performance varied significantly across regions
++ Inventory turnover identified fast-moving products
++ Delivery efficiency directly impacted operational performance
+
+**Business Recommendations**
++ Improve supplier coordination for delayed shipments
++ Maintain safety stock for high-demand products
++ Optimize warehouse allocation strategies
++ Monitor inventory levels regularly
++ Implement data-driven logistics planning
++ Skills Demonstrated
+
+**Data Cleaning**
+
++ Exploratory Data Analysis (EDA)
++ SQL Querying
++ KPI Reporting
++ Dashboard Design
++ Data Visualization
++ Business Intelligence
++ Supply Chain Analytics
+
+**Future Improvements**
+
++ Demand Forecasting using Machine Learning
++ Delivery Delay Prediction
++ Inventory Optimization Models
++ Real-Time Dashboard Integration
+
+**Author**
+Skanda Sai M
