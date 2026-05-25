@@ -29,12 +29,12 @@ This project aims to analyze supply chain and inventory data using Python, SQL, 
 
 **Python Libraries Used**
 
-`
+```
 pandas
 numpy
 matplotlib
 seaborn
-`
+```
 
 **Key Performance Indicators (KPIs)**
 
