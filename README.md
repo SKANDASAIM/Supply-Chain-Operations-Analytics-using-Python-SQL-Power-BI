@@ -1,6 +1,6 @@
 # Supply-Chain-Operations-Analytics-using-Python-SQL-Power-BI
 
-**Project Overview**
+##**Project Overview**
 
 This project focuses on analyzing supply chain and inventory operations to identify delivery delays, inventory shortages, supplier inefficiencies, and warehouse performance issues. The project uses Python, SQL, and Power BI to generate actionable business insights and interactive dashboards for operational decision-making.
 
