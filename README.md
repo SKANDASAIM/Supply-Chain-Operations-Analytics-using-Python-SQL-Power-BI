@@ -19,13 +19,13 @@ This project aims to analyze supply chain and inventory data using Python, SQL, 
 + Improve supply chain decision-making using data analytics
 
 **Tools & Technologies Used**
-```
+`
 Tool	                    Purpose
-Python	                    Data Cleaning & EDA
-SQL	                          Data Querying & KPI Analysis
-Power BI	                    Dashboard & Visualization
-Excel	                          Initial Data Processing
-```
+Python	              Data Cleaning & EDA
+SQL	                    Data Querying & KPI Analysis
+Power BI	              Dashboard & Visualization
+Excel	                    Initial Data Processing
+`
 
 **Python Libraries Used**
 
