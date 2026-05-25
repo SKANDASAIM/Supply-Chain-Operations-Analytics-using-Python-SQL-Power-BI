@@ -1,0 +1,201 @@
+Order_ID,Product,Supplier,Warehouse,Order_Date,Delivery_Date,Quantity,Stock_Level,Shipping_Cost,Order_Status,Customer_Region,Order_Accuracy
+1,Printer,FastLogix,Hyderabad,2025-08-13,2025-08-23,50,401,141.14,Delayed,East Dianaville,1
+2,Router,SupplyHub,Hyderabad,2025-11-11,2025-11-15,18,240,125.61,In Transit,Mercerbury,1
+3,Tablet,Prime Vendors,Mumbai,2025-07-08,2025-07-15,70,423,580.19,In Transit,New Jasmine,1
+4,Laptop,TechSource,Bangalore,2025-04-18,2025-04-22,31,354,672.4,Delivered,South Leslie,1
+5,Laptop,Prime Vendors,Mumbai,2025-03-24,2025-04-01,29,343,446.27,In Transit,Robertmouth,1
+6,Keyboard,Prime Vendors,Chennai,2025-10-14,2025-10-24,37,165,181.09,In Transit,Walltown,0
+7,Printer,SupplyHub,Hyderabad,2025-04-28,2025-05-05,50,433,139.0,Delayed,New Donnachester,0
+8,Laptop,TechSource,Delhi,2025-02-11,2025-02-18,20,238,294.9,In Transit,Matthewstad,0
+9,Keyboard,Global Supplies,Delhi,2025-09-16,2025-09-21,84,419,883.6,Delayed,North Samanthabury,0
+10,Router,Prime Vendors,Hyderabad,2025-04-10,2025-04-20,60,174,601.93,Delayed,West Robert,1
+11,Router,Prime Vendors,Delhi,2025-11-28,2025-12-07,26,88,811.21,Delayed,Michaelland,1
+12,Laptop,SupplyHub,Chennai,2025-10-17,2025-10-20,34,312,738.53,Delivered,Brownborough,1
+13,Laptop,FastLogix,Chennai,2025-05-30,2025-06-02,96,9,802.88,In Transit,Bellburgh,0
+14,Mobile,Prime Vendors,Bangalore,2025-11-10,2025-11-20,74,261,983.86,Delayed,Samanthahaven,1
+15,Laptop,FastLogix,Delhi,2025-01-12,2025-01-19,13,98,469.11,In Transit,Port Joshua,1
+16,Router,SupplyHub,Hyderabad,2025-11-18,2025-11-26,81,96,554.53,Delivered,East Mandy,0
+17,Monitor,TechSource,Bangalore,2025-11-03,2025-11-08,37,132,465.55,In Transit,New Jeremiahville,0
+18,Mouse,SupplyHub,Bangalore,2025-09-21,2025-09-29,4,283,970.65,In Transit,Lindsayton,1
+19,Printer,TechSource,Chennai,2025-03-26,2025-04-03,66,25,273.84,In Transit,Combshaven,1
+20,Keyboard,FastLogix,Hyderabad,2025-08-10,2025-08-13,79,240,372.36,In Transit,East Davidport,1
+21,Monitor,Prime Vendors,Bangalore,2025-10-25,2025-10-30,69,13,279.58,Delayed,Mercadoport,0
+22,Tablet,FastLogix,Hyderabad,2025-02-13,2025-02-17,5,419,988.72,Delayed,North Melissa,0
+23,Mouse,SupplyHub,Chennai,2025-11-14,2025-11-21,11,133,338.53,In Transit,East Jessica,0
+24,Mouse,TechSource,Mumbai,2025-02-24,2025-03-05,91,273,728.49,In Transit,West Robert,0
+25,Router,Global Supplies,Chennai,2025-03-14,2025-03-17,33,398,464.55,Delivered,Ashleybury,1
+26,Router,SupplyHub,Mumbai,2025-07-02,2025-07-10,96,298,540.85,In Transit,Michelleshire,0
+27,Router,Global Supplies,Bangalore,2025-09-15,2025-09-23,22,284,355.7,In Transit,Shafferborough,0
+28,Tablet,Prime Vendors,Mumbai,2025-05-02,2025-05-07,76,219,592.09,Delayed,Adamsmouth,0
+29,Tablet,TechSource,Mumbai,2025-08-09,2025-08-19,27,356,421.1,In Transit,Port Brendaborough,0
+30,Tablet,TechSource,Hyderabad,2025-11-18,2025-11-24,62,270,715.28,Delivered,New Denise,1
+31,Keyboard,TechSource,Mumbai,2025-09-13,2025-09-15,26,264,506.68,In Transit,Melissachester,0
+32,Tablet,Prime Vendors,Mumbai,2025-03-18,2025-03-26,66,385,309.69,Delivered,Michaelmouth,1
+33,Router,FastLogix,Hyderabad,2025-12-18,2025-12-28,98,281,830.9,Delivered,New Daniel,1
+34,Printer,Prime Vendors,Bangalore,2025-09-10,2025-09-18,66,152,666.35,In Transit,Seanborough,0
+35,Laptop,SupplyHub,Delhi,2025-12-11,2025-12-20,44,12,528.18,Delivered,Dodsonport,0
+36,Mobile,FastLogix,Mumbai,2025-02-18,2025-02-28,33,217,114.35,Delivered,Lake Jim,0
+37,Mouse,Prime Vendors,Bangalore,2025-06-30,2025-07-03,15,456,589.88,Delayed,Port Connie,0
+38,Keyboard,Prime Vendors,Chennai,2025-09-30,2025-10-03,17,225,295.28,Delayed,New Jeffrey,0
+39,Mobile,Global Supplies,Bangalore,2025-11-08,2025-11-18,36,288,632.0,Delivered,Vickiberg,0
+40,Mouse,TechSource,Bangalore,2025-05-16,2025-05-21,87,46,303.88,Delivered,South Joseph,0
+41,Tablet,Prime Vendors,Mumbai,2025-03-12,2025-03-16,74,286,572.59,In Transit,Port Jessica,1
+42,Printer,Global Supplies,Mumbai,2025-07-08,2025-07-11,90,381,635.82,In Transit,Rossbury,0
+43,Tablet,TechSource,Hyderabad,2025-09-27,2025-10-06,55,345,338.15,In Transit,North Cynthialand,0
+44,Router,Global Supplies,Chennai,2025-12-05,2025-12-08,45,413,373.91,Delivered,Lake Elizabethbury,1
+45,Mouse,SupplyHub,Chennai,2025-12-30,2026-01-01,47,382,738.29,Delivered,Tanyaton,0
+46,Laptop,Prime Vendors,Bangalore,2025-10-13,2025-10-21,92,96,500.51,In Transit,Tammyside,0
+47,Router,Global Supplies,Delhi,2025-10-26,2025-10-28,80,153,825.96,In Transit,Jeffreychester,1
+48,Mouse,FastLogix,Mumbai,2025-07-23,2025-07-28,49,76,169.48,Delayed,Jennystad,0
+49,Tablet,Prime Vendors,Chennai,2025-08-26,2025-09-02,18,256,648.16,In Transit,Moranton,0
+50,Mobile,TechSource,Mumbai,2025-01-10,2025-01-14,25,463,265.24,In Transit,Jordanberg,0
+51,Mobile,TechSource,Chennai,2025-11-09,2025-11-11,12,99,198.94,In Transit,Mariahstad,0
+52,Monitor,TechSource,Mumbai,2025-09-20,2025-09-28,51,136,214.86,In Transit,South Andreview,0
+53,Monitor,TechSource,Delhi,2025-12-13,2025-12-23,9,237,894.48,Delivered,Clarkshire,1
+54,Mouse,Prime Vendors,Delhi,2025-05-21,2025-05-24,25,413,201.43,Delivered,West Carlosstad,0
+55,Mouse,FastLogix,Delhi,2025-10-07,2025-10-16,44,166,268.54,In Transit,South Andrewport,0
+56,Printer,Prime Vendors,Delhi,2025-06-22,2025-06-25,59,160,636.76,In Transit,Mariamouth,1
+57,Laptop,TechSource,Mumbai,2025-04-21,2025-04-30,80,484,395.41,Delayed,Carrillofurt,0
+58,Printer,FastLogix,Delhi,2025-11-27,2025-12-01,1,316,613.25,Delivered,Smithburgh,0
+59,Laptop,Prime Vendors,Hyderabad,2025-05-28,2025-06-06,44,52,850.17,Delivered,Jamesmouth,1
+60,Mobile,SupplyHub,Delhi,2025-03-07,2025-03-17,84,416,616.32,In Transit,West Tyler,1
+61,Laptop,TechSource,Chennai,2025-04-03,2025-04-09,48,306,124.52,Delivered,Port Kenneth,0
+62,Keyboard,Global Supplies,Mumbai,2025-02-27,2025-03-06,85,113,62.36,In Transit,Sullivanburgh,0
+63,Mobile,TechSource,Mumbai,2025-06-13,2025-06-21,44,206,890.74,In Transit,Jamesport,0
+64,Printer,Global Supplies,Bangalore,2025-10-29,2025-10-31,20,165,270.26,Delayed,Feliciachester,0
+65,Tablet,TechSource,Chennai,2025-05-04,2025-05-08,41,289,85.83,In Transit,North Davidmouth,1
+66,Printer,TechSource,Delhi,2025-03-04,2025-03-12,38,192,341.23,In Transit,Jenningsfurt,0
+67,Mouse,SupplyHub,Chennai,2025-08-28,2025-09-06,84,167,542.42,Delivered,Weaverport,0
+68,Tablet,SupplyHub,Delhi,2025-11-08,2025-11-17,28,410,551.03,Delivered,Alexisburgh,0
+69,Laptop,Global Supplies,Chennai,2025-08-27,2025-09-03,53,67,488.4,Delivered,Jessicastad,0
+70,Monitor,SupplyHub,Delhi,2025-03-25,2025-04-02,75,437,589.9,In Transit,South Jeanette,1
+71,Tablet,FastLogix,Chennai,2025-08-16,2025-08-22,84,74,272.42,Delivered,Byrdbury,1
+72,Printer,SupplyHub,Chennai,2025-09-15,2025-09-23,36,181,758.54,Delayed,Heatherton,1
+73,Mouse,TechSource,Bangalore,2025-12-08,2025-12-16,89,473,476.15,In Transit,Jillstad,1
+74,Keyboard,SupplyHub,Bangalore,2025-03-12,2025-03-20,98,287,223.9,Delayed,West Craig,1
+75,Printer,SupplyHub,Hyderabad,2025-07-02,2025-07-12,96,245,454.44,Delivered,Hughesview,0
+76,Router,SupplyHub,Hyderabad,2025-02-16,2025-02-20,72,185,93.98,Delivered,New Annettebury,0
+77,Monitor,Prime Vendors,Mumbai,2025-08-26,2025-09-03,14,220,248.53,Delayed,Brianhaven,1
+78,Laptop,Prime Vendors,Hyderabad,2025-06-09,2025-06-15,12,479,700.47,In Transit,Port Davidchester,1
+79,Mobile,Global Supplies,Bangalore,2025-02-07,2025-02-11,58,182,945.5,In Transit,West Kennethburgh,0
+80,Printer,SupplyHub,Delhi,2025-08-18,2025-08-22,100,158,113.86,Delayed,Taylorshire,0
+81,Printer,SupplyHub,Chennai,2025-03-08,2025-03-11,28,153,813.01,In Transit,Port Brookeside,0
+82,Printer,SupplyHub,Mumbai,2025-01-17,2025-01-24,81,98,72.17,Delivered,Ashleemouth,0
+83,Tablet,SupplyHub,Bangalore,2025-07-22,2025-07-31,1,35,447.54,Delayed,New Ryanbury,0
+84,Tablet,Prime Vendors,Delhi,2025-02-02,2025-02-07,29,454,276.6,Delayed,Amyport,0
+85,Router,Prime Vendors,Mumbai,2025-06-01,2025-06-06,67,389,901.15,In Transit,Brownland,0
+86,Laptop,TechSource,Hyderabad,2025-05-14,2025-05-16,23,419,731.59,Delayed,Sheritown,0
+87,Router,SupplyHub,Delhi,2025-11-03,2025-11-12,74,316,542.17,In Transit,Douglasfurt,0
+88,Laptop,Global Supplies,Mumbai,2025-06-29,2025-07-03,41,388,540.9,Delayed,Matthewstown,0
+89,Mobile,TechSource,Chennai,2025-03-17,2025-03-27,67,438,794.9,Delayed,Laurastad,0
+90,Laptop,Global Supplies,Bangalore,2025-05-16,2025-05-23,69,76,661.12,In Transit,New Heather,1
+91,Tablet,TechSource,Chennai,2025-11-03,2025-11-11,92,76,583.27,Delivered,Greenshire,0
+92,Mobile,FastLogix,Chennai,2025-04-01,2025-04-10,79,329,427.01,Delivered,Lloydborough,0
+93,Keyboard,TechSource,Bangalore,2025-07-13,2025-07-16,80,304,939.17,Delivered,Whitebury,1
+94,Laptop,TechSource,Mumbai,2025-04-09,2025-04-16,31,27,300.84,In Transit,East Bryanchester,1
+95,Monitor,FastLogix,Delhi,2025-12-18,2025-12-22,43,27,289.39,Delayed,Stephenhaven,1
+96,Monitor,Global Supplies,Bangalore,2025-02-03,2025-02-06,29,332,582.46,In Transit,Port Marcusland,1
+97,Laptop,FastLogix,Hyderabad,2025-09-06,2025-09-12,84,215,59.71,Delivered,Nicholefurt,1
+98,Router,SupplyHub,Mumbai,2025-07-21,2025-07-23,42,308,410.66,Delivered,New Jasonstad,1
+99,Monitor,TechSource,Chennai,2025-11-29,2025-12-03,98,358,247.22,Delayed,Pattersonmouth,1
+100,Mouse,SupplyHub,Delhi,2025-04-18,2025-04-24,44,494,662.26,Delivered,West Jennifermouth,0
+101,Monitor,Prime Vendors,Bangalore,2025-01-18,2025-01-22,65,99,983.12,Delayed,Williamsland,1
+102,Router,Global Supplies,Chennai,2025-08-25,2025-09-04,13,347,623.35,In Transit,Haroldmouth,0
+103,Tablet,Global Supplies,Mumbai,2025-08-01,2025-08-03,100,336,462.3,Delayed,Kaylafurt,1
+104,Mobile,TechSource,Mumbai,2025-06-16,2025-06-23,71,51,64.86,Delayed,South Terrencefort,0
+105,Tablet,Global Supplies,Bangalore,2025-07-21,2025-07-24,61,66,668.53,In Transit,Port Jeffrey,1
+106,Keyboard,Prime Vendors,Hyderabad,2025-09-16,2025-09-23,73,33,903.07,In Transit,East Donna,1
+107,Keyboard,FastLogix,Bangalore,2025-10-11,2025-10-18,32,53,829.4,In Transit,Lynchshire,0
+108,Router,Global Supplies,Mumbai,2025-08-01,2025-08-10,42,156,555.14,Delayed,Thomasfort,1
+109,Router,Prime Vendors,Delhi,2025-02-20,2025-02-25,45,55,115.03,Delivered,Colemanchester,1
+110,Monitor,Prime Vendors,Chennai,2025-12-18,2025-12-28,9,242,633.32,Delayed,New Nataliefort,1
+111,Tablet,Prime Vendors,Hyderabad,2025-03-31,2025-04-02,78,53,50.47,Delayed,Kylehaven,1
+112,Mouse,FastLogix,Chennai,2025-01-26,2025-02-04,95,291,999.1,Delivered,Michaelville,1
+113,Monitor,TechSource,Delhi,2025-09-06,2025-09-16,15,131,843.12,Delivered,West Keithton,0
+114,Laptop,Global Supplies,Delhi,2025-02-01,2025-02-07,88,82,157.45,In Transit,Duncanmouth,0
+115,Router,SupplyHub,Bangalore,2025-01-14,2025-01-18,63,79,499.19,In Transit,Lake Amandaport,0
+116,Mobile,FastLogix,Hyderabad,2025-12-22,2026-01-01,27,338,588.03,In Transit,Blackside,0
+117,Keyboard,Prime Vendors,Chennai,2025-01-20,2025-01-22,59,89,819.47,Delivered,Valdezfort,0
+118,Laptop,FastLogix,Mumbai,2025-02-04,2025-02-09,64,237,364.0,In Transit,Patricktown,1
+119,Mouse,SupplyHub,Delhi,2025-02-26,2025-03-01,69,46,739.25,Delivered,Samanthaton,1
+120,Laptop,Global Supplies,Bangalore,2025-10-25,2025-10-27,79,100,453.07,Delayed,Hernandezport,1
+121,Router,TechSource,Mumbai,2025-07-07,2025-07-13,58,142,268.1,Delivered,Wintersland,0
+122,Monitor,TechSource,Bangalore,2025-09-12,2025-09-18,46,472,988.52,Delivered,Joshuatown,1
+123,Printer,Global Supplies,Delhi,2025-04-17,2025-04-23,12,356,549.92,Delivered,Samanthachester,0
+124,Mouse,TechSource,Chennai,2025-10-17,2025-10-24,45,399,425.57,Delivered,South Kelly,1
+125,Printer,TechSource,Hyderabad,2025-11-29,2025-12-04,12,211,703.12,In Transit,New Davidfort,1
+126,Mouse,SupplyHub,Delhi,2025-03-30,2025-04-03,81,209,610.51,Delivered,North Lisa,0
+127,Keyboard,Global Supplies,Bangalore,2025-02-03,2025-02-07,24,215,469.17,Delivered,Johnborough,0
+128,Mobile,SupplyHub,Hyderabad,2025-09-16,2025-09-24,26,36,679.31,In Transit,East Kathryn,0
+129,Mobile,SupplyHub,Mumbai,2025-11-09,2025-11-18,25,433,493.61,In Transit,Port Garrettview,1
+130,Mouse,Global Supplies,Chennai,2025-11-03,2025-11-13,45,374,509.05,In Transit,Port Curtis,0
+131,Printer,TechSource,Hyderabad,2025-05-06,2025-05-11,41,70,91.75,Delivered,Gillville,0
+132,Laptop,FastLogix,Mumbai,2025-07-04,2025-07-12,4,123,59.42,Delivered,Port Brendanhaven,0
+133,Mouse,TechSource,Chennai,2025-04-29,2025-05-09,74,339,710.03,Delayed,South Patrickchester,0
+134,Monitor,TechSource,Mumbai,2025-03-23,2025-03-26,58,465,829.08,Delivered,Port Mariomouth,1
+135,Keyboard,SupplyHub,Delhi,2025-01-13,2025-01-21,73,319,386.69,Delayed,Tinahaven,0
+136,Mobile,SupplyHub,Mumbai,2025-04-27,2025-05-06,91,175,919.6,In Transit,Port Michael,1
+137,Mouse,SupplyHub,Bangalore,2025-06-28,2025-06-30,86,449,880.75,Delivered,East Toddbury,0
+138,Monitor,SupplyHub,Bangalore,2025-05-15,2025-05-21,58,39,245.44,In Transit,West Timothystad,1
+139,Printer,SupplyHub,Chennai,2025-06-23,2025-06-26,61,349,257.09,Delayed,Anthonychester,1
+140,Tablet,FastLogix,Chennai,2025-02-15,2025-02-18,67,9,279.08,Delivered,East Robertshire,0
+141,Keyboard,Global Supplies,Chennai,2025-07-16,2025-07-20,81,466,678.66,Delivered,South Calebberg,1
+142,Tablet,FastLogix,Delhi,2025-06-02,2025-06-11,92,289,850.71,Delayed,Port Alexander,1
+143,Monitor,TechSource,Delhi,2025-10-10,2025-10-14,57,233,751.54,Delivered,Ryanchester,1
+144,Laptop,TechSource,Bangalore,2025-09-04,2025-09-10,66,73,744.75,Delayed,Shannonshire,1
+145,Monitor,Prime Vendors,Hyderabad,2025-03-02,2025-03-08,17,39,527.16,Delivered,Charlesland,1
+146,Keyboard,SupplyHub,Chennai,2025-05-30,2025-06-08,93,231,511.05,Delivered,South Ianton,0
+147,Printer,FastLogix,Mumbai,2025-08-15,2025-08-18,77,205,609.43,Delayed,East James,1
+148,Mobile,FastLogix,Chennai,2025-09-29,2025-10-06,65,351,833.66,Delayed,Cantrellbury,1
+149,Laptop,Global Supplies,Hyderabad,2025-08-26,2025-08-29,16,485,790.26,Delayed,South Melissa,0
+150,Mouse,SupplyHub,Delhi,2025-10-13,2025-10-15,71,361,212.33,Delivered,West Christopher,1
+151,Keyboard,FastLogix,Delhi,2025-12-13,2025-12-19,63,263,208.01,Delayed,West Jennifer,0
+152,Keyboard,TechSource,Mumbai,2025-05-22,2025-05-27,55,48,892.89,Delayed,Jamesview,1
+153,Tablet,FastLogix,Bangalore,2025-03-22,2025-03-27,37,202,333.05,Delayed,Port Marystad,1
+154,Mobile,TechSource,Delhi,2025-02-27,2025-03-03,49,27,510.87,Delayed,Lake Stephanie,0
+155,Monitor,Prime Vendors,Hyderabad,2025-04-22,2025-04-30,31,355,617.14,Delayed,Lake Rebeccaport,0
+156,Tablet,TechSource,Mumbai,2025-12-12,2025-12-22,96,85,511.88,In Transit,South Valeriemouth,1
+157,Printer,TechSource,Delhi,2025-12-23,2025-12-31,42,108,422.19,Delayed,Lake Billy,1
+158,Router,FastLogix,Mumbai,2025-12-17,2025-12-19,40,448,240.32,Delivered,Lake Brandon,0
+159,Keyboard,TechSource,Hyderabad,2025-08-10,2025-08-20,60,21,248.75,In Transit,South Lisaland,1
+160,Mobile,TechSource,Mumbai,2025-08-19,2025-08-29,17,371,99.94,Delayed,Adamville,1
+161,Router,TechSource,Hyderabad,2025-08-19,2025-08-22,75,495,860.89,Delivered,Wilcoxchester,0
+162,Monitor,Prime Vendors,Mumbai,2025-08-26,2025-08-29,20,270,735.83,In Transit,Paulbury,0
+163,Router,Prime Vendors,Bangalore,2025-06-03,2025-06-11,41,257,81.97,Delivered,North Nathanstad,0
+164,Router,Global Supplies,Mumbai,2025-08-01,2025-08-08,73,399,529.32,In Transit,Lake Jennabury,0
+165,Keyboard,SupplyHub,Mumbai,2025-01-01,2025-01-07,58,274,320.78,Delivered,New Kevin,0
+166,Mobile,Prime Vendors,Hyderabad,2025-06-28,2025-07-01,79,86,852.05,Delayed,South Benjaminshire,0
+167,Laptop,Global Supplies,Hyderabad,2025-04-14,2025-04-22,34,10,862.61,Delayed,Adamsberg,1
+168,Mobile,Global Supplies,Hyderabad,2025-06-09,2025-06-13,64,209,469.6,Delayed,Lake Kathleenhaven,0
+169,Router,Global Supplies,Delhi,2025-11-29,2025-12-09,32,6,754.62,In Transit,South Jamesshire,1
+170,Laptop,SupplyHub,Bangalore,2025-09-28,2025-09-30,11,63,907.67,Delivered,Cartershire,1
+171,Router,Prime Vendors,Chennai,2025-02-16,2025-02-19,44,267,332.04,In Transit,Lawsonview,0
+172,Monitor,Global Supplies,Chennai,2025-11-22,2025-11-30,18,48,110.38,Delivered,North Sarahburgh,0
+173,Mobile,FastLogix,Delhi,2025-03-19,2025-03-23,76,198,738.73,In Transit,West Cheryl,0
+174,Keyboard,TechSource,Chennai,2025-03-25,2025-04-03,74,200,530.26,Delayed,New Michaelbury,1
+175,Tablet,Prime Vendors,Chennai,2025-10-29,2025-11-05,81,274,120.04,In Transit,South Linda,0
+176,Mouse,Global Supplies,Mumbai,2025-08-02,2025-08-08,11,235,311.55,Delivered,Port Markchester,1
+177,Monitor,FastLogix,Hyderabad,2025-03-10,2025-03-13,18,190,880.71,Delayed,Kristinmouth,1
+178,Mouse,Prime Vendors,Bangalore,2025-12-31,2026-01-02,40,36,917.79,Delayed,South Jose,0
+179,Monitor,FastLogix,Bangalore,2025-07-10,2025-07-13,94,431,361.88,Delivered,Kathleenport,1
+180,Printer,FastLogix,Chennai,2025-02-22,2025-03-02,12,204,863.03,Delayed,Williammouth,1
+181,Mouse,SupplyHub,Bangalore,2025-08-14,2025-08-18,2,401,892.74,Delayed,Edwardsview,0
+182,Tablet,Prime Vendors,Hyderabad,2025-07-03,2025-07-12,92,141,100.38,Delivered,Juantown,1
+183,Mouse,TechSource,Hyderabad,2025-09-03,2025-09-13,12,192,245.57,Delivered,Simonton,0
+184,Laptop,SupplyHub,Chennai,2025-03-16,2025-03-22,71,259,687.75,Delivered,North Madisontown,0
+185,Mouse,TechSource,Delhi,2025-10-27,2025-10-30,18,234,704.63,In Transit,Lake Amanda,1
+186,Printer,FastLogix,Delhi,2025-09-08,2025-09-14,67,65,301.62,In Transit,Anthonyview,0
+187,Tablet,SupplyHub,Mumbai,2025-01-24,2025-02-03,88,272,97.14,Delivered,New Kara,1
+188,Printer,SupplyHub,Bangalore,2025-07-11,2025-07-19,19,172,697.51,Delayed,Davidport,0
+189,Router,SupplyHub,Chennai,2025-06-23,2025-06-28,26,359,385.94,Delivered,East David,1
+190,Mouse,FastLogix,Chennai,2025-09-08,2025-09-11,59,294,893.76,Delayed,North Mary,0
+191,Printer,SupplyHub,Mumbai,2025-03-01,2025-03-07,13,412,498.72,Delayed,Port Allenburgh,1
+192,Keyboard,SupplyHub,Hyderabad,2025-09-26,2025-10-06,1,278,916.76,Delayed,East Christopher,1
+193,Mouse,Global Supplies,Chennai,2025-01-16,2025-01-21,21,191,597.65,In Transit,Lake Tara,0
+194,Mouse,FastLogix,Bangalore,2025-11-09,2025-11-19,8,178,84.95,In Transit,West Amy,0
+195,Monitor,TechSource,Bangalore,2025-04-13,2025-04-18,77,119,999.7,In Transit,Mccarthyburgh,1
+196,Router,TechSource,Chennai,2025-05-16,2025-05-24,37,365,80.77,In Transit,Kingfort,0
+197,Mobile,SupplyHub,Bangalore,2025-04-15,2025-04-21,1,411,354.16,Delayed,Port Walter,0
+198,Router,TechSource,Delhi,2025-02-11,2025-02-21,93,65,563.68,Delivered,Escobarville,1
+199,Keyboard,Prime Vendors,Mumbai,2025-12-06,2025-12-15,93,242,339.88,In Transit,West Larry,0
+200,Keyboard,Prime Vendors,Hyderabad,2025-03-03,2025-03-06,50,13,292.65,Delayed,Port Heather,1
