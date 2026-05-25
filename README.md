@@ -1,16 +1,16 @@
 # Supply-Chain-Operations-Analytics-using-Python-SQL-Power-BI
 
-##**Project Overview**
+## Project Overview
 
 This project focuses on analyzing supply chain and inventory operations to identify delivery delays, inventory shortages, supplier inefficiencies, and warehouse performance issues. The project uses Python, SQL, and Power BI to generate actionable business insights and interactive dashboards for operational decision-making.
 
-**Problem Statement**
+## Problem Statement
 
 Modern supply chain operations face challenges such as delayed deliveries, low inventory visibility, supplier inefficiencies, and stock shortages, which directly impact business performance and customer satisfaction. Companies often struggle to monitor warehouse operations, track delivery performance, and maintain optimal inventory levels due to the lack of data-driven insights.
 
 This project aims to analyze supply chain and inventory data using Python, SQL, and Power BI to identify operational inefficiencies, monitor key performance indicators (KPIs), and improve decision-making.
 
-**Objectives**
+## Objectives
 
 + Analyze delivery performance and shipment delays
 + Monitor inventory availability and stock levels
@@ -18,7 +18,7 @@ This project aims to analyze supply chain and inventory data using Python, SQL, 
 + Create KPI-driven dashboards for operational insights
 + Improve supply chain decision-making using data analytics
 
-**Tools & Technologies Used**
+## Tools & Technologies Used
 
 |Tool|Purpose|
 |:---:|:---:|
@@ -27,7 +27,7 @@ This project aims to analyze supply chain and inventory data using Python, SQL, 
 |Power BI|Dashboard & Visualization|
 |Excel|Initial Data Processing|
 
-**Python Libraries Used**
+## Python Libraries Used
 
 ```
 pandas
@@ -36,7 +36,7 @@ matplotlib
 seaborn
 ```
 
-**Key Performance Indicators (KPIs)**
+## Key Performance Indicators (KPIs)
 
 Total Orders
 Average Delivery Time
@@ -48,7 +48,7 @@ Supplier Performance
 Warehouse Efficiency
 
 
-**Dashboard Features**
+## Dashboard Features
 
 <ins> Executive Overview </ins>
 
@@ -80,7 +80,7 @@ Warehouse Efficiency
 + Shipping cost analysis
 + Monthly trend analysis
 
-**Project Workflow**
+## Project Workflow
 ```
 Data Collection
       ↓
@@ -93,15 +93,14 @@ Power BI Dashboard Development
 Business Insights & Recommendations
 ```
 
-**Key Insights**
-
+## Key Insights
 + Certain warehouses showed higher delivery delays
 + Some products frequently experienced low stock levels
 + Supplier performance varied significantly across regions
 + Inventory turnover identified fast-moving products
 + Delivery efficiency directly impacted operational performance
 
-**Business Recommendations**
+## Business Recommendations
 + Improve supplier coordination for delayed shipments
 + Maintain safety stock for high-demand products
 + Optimize warehouse allocation strategies
@@ -109,8 +108,7 @@ Business Insights & Recommendations
 + Implement data-driven logistics planning
 + Skills Demonstrated
 
-**Data Cleaning**
-
+## Data Cleaning
 + Exploratory Data Analysis (EDA)
 + SQL Querying
 + KPI Reporting
@@ -119,12 +117,11 @@ Business Insights & Recommendations
 + Business Intelligence
 + Supply Chain Analytics
 
-**Future Improvements**
-
+## Future Improvements
 + Demand Forecasting using Machine Learning
 + Delivery Delay Prediction
 + Inventory Optimization Models
 + Real-Time Dashboard Integration
 
-**Author**
+### Author
 Skanda Sai M
