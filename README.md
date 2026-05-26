@@ -107,11 +107,5 @@ Business Insights & Recommendations
 + Business Intelligence
 + Supply Chain Analytics
 
-## Future Improvements
-+ Demand Forecasting using Machine Learning
-+ Delivery Delay Prediction
-+ Inventory Optimization Models
-+ Real-Time Dashboard Integration
-
 ### Author
 Skanda Sai M
