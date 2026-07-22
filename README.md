@@ -47,8 +47,7 @@ Warehouse Efficiency
 * Delay Percentage
 * Average Shipping Cost
 * Monthly Order Trends
-<img width="1371" height="775" alt="Screenshot 2026-07-22 122354" src="https://github.com/user-attachments/assets/5ba7d4fb-45d4-4c61-85d7-2f5eba81b921" />
-
+<img width="1377" height="776" alt="Screenshot 2026-07-22 143305" src="https://github.com/user-attachments/assets/92774cb9-4d1c-46ab-bcd7-bacce5c93b8f" />
 
 <ins>Inventory Analysis</ins>
 
@@ -65,8 +64,7 @@ Warehouse Efficiency
 * Delayed Orders Analysis
 * Delivery Time Comparison
 * Region-wise Orders
-<img width="1376" height="768" alt="Screenshot 2026-07-22 122445" src="https://github.com/user-attachments/assets/d926713f-51ce-45e2-a648-795993e31993" />
-
+<img width="1375" height="772" alt="Screenshot 2026-07-22 144905" src="https://github.com/user-attachments/assets/3d629a42-8b32-40b0-9e36-a1981b8c2754" />
 
 ## SQL Analysis Performed
 + Delivery delay analysis
