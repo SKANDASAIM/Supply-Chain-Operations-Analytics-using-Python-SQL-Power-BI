@@ -47,6 +47,8 @@ Warehouse Efficiency
 * Delay Percentage
 * Average Shipping Cost
 * Monthly Order Trends
+<img width="1371" height="775" alt="Screenshot 2026-07-22 122354" src="https://github.com/user-attachments/assets/5ba7d4fb-45d4-4c61-85d7-2f5eba81b921" />
+
 
 <ins>Inventory Analysis</ins>
 
@@ -54,6 +56,8 @@ Warehouse Efficiency
 * Low Stock Products
 * Inventory Turnover
 * Product-wise Inventory Distribution
+<img width="1373" height="772" alt="Screenshot 2026-07-22 122420" src="https://github.com/user-attachments/assets/a03f4df4-51de-49ca-aa7f-04688bfb994a" />
+
 
 <ins> Supplier & Delivery Analysis </ins>
 
@@ -61,6 +65,8 @@ Warehouse Efficiency
 * Delayed Orders Analysis
 * Delivery Time Comparison
 * Region-wise Orders
+<img width="1376" height="768" alt="Screenshot 2026-07-22 122445" src="https://github.com/user-attachments/assets/d926713f-51ce-45e2-a648-795993e31993" />
+
 
 ## SQL Analysis Performed
 + Delivery delay analysis
